@@ -1,0 +1,19 @@
+body {
+	background-color: #9AE4E8;
+}
+
+div {
+	vertical-align: middle;
+}
+
+.textinput {
+	border: 1px solid white;
+	height: 20px;
+	width: 200px;
+	padding: 5px;
+}
+
+.submitButton {
+    font-size: 100%;
+	width: 10%;
+}

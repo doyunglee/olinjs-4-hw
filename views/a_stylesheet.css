@@ -1,0 +1,22 @@
+body {
+	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+	font-weight:bold;
+	font-size: 150%;
+	text-align: center;
+}
+
+div {
+	vertical-align: middle
+}
+
+.textinput { 
+	width: 200px; 
+	height: 20px; 
+	border: 1px solid black; 
+	padding: 5px; 
+}
+
+.submitButton{
+	width: 10%;
+	font-size: 100%;
+}
